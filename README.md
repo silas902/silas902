@@ -8,9 +8,9 @@
 ```dart 
 class AboutMe () {
 
- String name = "Gabriel Lima";
+ String name = "Silas Wylly";
  String acknowledgements = " Mobile Developer 📱 ";
- String myLocation = " São Paulo/SP ";
+ String myLocation = " Maragojipe/BA";
  
  final List<String> languages  = [
     "Dart", 
@@ -36,7 +36,7 @@ class AboutMe () {
 
 ## **GitHub Estatísticas**
 
-[![Silas](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![silas902](https://github-readme-stats.vercel.app/api?username=silas902&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>
 	</h1>
