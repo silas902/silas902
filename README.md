@@ -12,11 +12,15 @@ class AboutMe () {
  String acknowledgements = " Mobile Developer 📱 ";
  String myLocation = " Maragojipe/BA";
  
- final List<String> languages  = [
+ final List<String> Habilidades  = [
     "Dart", 
     "Flutter", 
     "Clean Code", 
     "FireBase",
+    "Modular",
+    "Provider",
+    "SQL",
+    "clean Architecture",
  ];
 
 }
