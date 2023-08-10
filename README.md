@@ -12,7 +12,7 @@ class AboutMe () {
  String acknowledgements = " Mobile Developer 📱 ";
  String myLocation = " Maragojipe/BA";
  
- final List<String> Habilidades  = [
+ final List<String> Skills  = [
     "Dart", 
     "Flutter", 
     "Clean Code", 
