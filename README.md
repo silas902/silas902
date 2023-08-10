@@ -3,7 +3,7 @@
 </h1>
 
 
-<img align="right" width="220" src="https://github.com/silas902" />
+
 
 ```dart 
 class AboutMe () {
